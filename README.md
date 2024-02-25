@@ -13,7 +13,7 @@ Welcome to the Electric Vehicle Data Analysis and Visualization project! This pr
 
 ## Installation
 To get started with the Electric Vehicle Data Analysis and Visualization project, follow these steps:
-1. Clone the repository: `git clone https://github.com/yourusername/ev-data-analysis.git`
+1. Clone the repository: `git clone https://github.com/Avyukth1C/ev-data-analysis.git`
 2. Unzip the files.
 3. Import the .ipynb into Google Colab.
 4. Import the dataset into your Google drive.[Change the file path in the code respectively]
