@@ -21,7 +21,7 @@ To get started with the Electric Vehicle Data Analysis and Visualization project
 
 ## Usage
 Once the project is set up, you can:
-- Explore the provided Jupyter notebooks or scripts to perform data analysis tasks step by step.
+- Explore the provided Jupyter notebook to perform data analysis tasks step by step.
 - Execute specific analysis modules or functions to generate insights on EV usage, charging patterns, market trends, etc.
 - Customize the analysis and visualization components based on your specific research questions or interests.
 - Interact with interactive dashboards (if available) to dynamically explore the data and visualize key metrics.
